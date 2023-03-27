@@ -5,7 +5,7 @@
 | key     | value                                         |
 | ------- | --------------------------------------------- |
 | Name    | alichan                                       |
-| GitHub  | [alichan](https://github.com/alichan)         |
+| GitHub  | [alichan](https://github.com/alichan-69)      |
 | Twitter | [@alichan69](https://twitter.com/alichan0609) |
 
 # alichan の経歴
