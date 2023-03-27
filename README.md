@@ -12,7 +12,7 @@
 
 <details> 
   <summary>
-  <a href="https://github.com/alichan-69/AliceGame">個人でスマホゲーム開発(3000DL突破)</a>(2018/8 〜 2023/1)
+  <a href="https://github.com/alichan-69/AliceGame">個人でスマホゲーム開発(3000DL突破)</a>(2018/8 〜 2019/1)
   </summary>
   <div>
 
