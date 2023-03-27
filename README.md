@@ -185,7 +185,7 @@
 
 <details> 
   <summary>
-  <a href="https://www.recruit.co.jp/">株式会社リクルートで短期バイト</a> (2022/11 〜 2022/12)
+  <a href="https://www.recruit.co.jp/">株式会社リクルートで短期バイト</a> (2021/11 〜 2021/12)
   </summary>
   <div>
 
